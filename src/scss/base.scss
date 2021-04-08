@@ -3,8 +3,15 @@ body {
     background: $bg-color;
 }
 
-#btn{
+#btn {
     width: 100px;
     height: 100px;
     background-color: red;
+}
+
+#squad {
+    width: 100px;
+    height: 100px;
+    background: #00ff00;
+    border-radius: 50%;
 }
