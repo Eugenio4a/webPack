@@ -15,9 +15,17 @@ body {
     background: #00ff00;
     border-radius: 50%;
 }
-#circle{
+
+#circle {
     width: 200px;
     height: 200px;
     background-color: blue;
     border-radius: 100px;
+}
+
+#square {
+    width: 200px;
+    height: 200px;
+    background: yellowgreen;
+    border: 2px solid white;
 }
